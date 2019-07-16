@@ -20,6 +20,3 @@ For example:
 ```
 ./bsq bonus/Maps/intermediate_map_100_100
 ```
-
-## No memory leaks
-![Valgrind Screenshot](/bonus/valgrind.png?raw=true "Valgrind Screenshot")
